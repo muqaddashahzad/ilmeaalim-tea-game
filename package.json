@@ -1,0 +1,22 @@
+{
+  "name": "ilmeaalim-tea-game",
+  "version": "1.0.0",
+  "description": "An interactive trivia game where users can participate in quizzes, submit their own questions, and track scores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muqaddashahzad/ilmeaalim-tea-game.git"
+  },
+  "author": "ilmeaalim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muqaddashahzad/ilmeaalim-tea-game/issues"
+  },
+  "homepage": "https://github.com/muqaddashahzad/ilmeaalim-tea-game#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
